@@ -6,14 +6,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sophie627&row=2&column=3&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sophie627&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=sophie627&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21jsj34glwsu3dboqjpqzm2sa)](https://github.com/sophie627/spotify-github-profile)
-
-
 ## Welcome 🎉 to my profile. 
 
 <p align="center">
