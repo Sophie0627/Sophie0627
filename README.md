@@ -70,4 +70,5 @@ Talking about Personal Stuffs:
     <img  src="https://github-readme-stats.vercel.app/api?username=sophie627&&show_icons=true&theme=radical"/>
   </a>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sophie627&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 </p>
