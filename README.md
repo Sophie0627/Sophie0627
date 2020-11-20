@@ -1,10 +1,4 @@
-<p align="center">
-<img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
-</p>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=sophie627&row=2&column=3&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p>
 
 ## Welcome 🎉 to my profile. 
 
@@ -32,8 +26,9 @@ Talking about Personal Stuffs:
 
 - 🔭 I'm a full-stack developer for large projects and ready to start your project anytime.
 - 💬 Enterprise application development and support
-- 👨‍💻 All of my projects are available at [DevDreamCatch](https://github.com/devdreamcatch)
+- 👨‍💻 All of my projects are available at [Timezonedesign](http://timezonedesign)
 - 🌱 <b>Front-end</b> : Vuejs | Reactjs | Bootstrap
+- 🌱 <b>Mobile</b> : Flutter | React Native | Xamarin | Ionic | java | kotlin | swift
 - 💻 <b>Back-end</b> : Node.js | Django | Ruby on Rails | Laravel | Symfony | CodeIgniter
 - 🏯 <b>Database</b> : Mysql | MongoDB | PostgreSQL
 - 🐉 <b>CMS</b> : Wordpress | Shopify
