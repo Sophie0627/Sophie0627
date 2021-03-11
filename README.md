@@ -27,11 +27,11 @@ Talking about Personal Stuffs:
 - 🔭 I'm a full-stack developer for large projects and ready to start your project anytime.
 - 💬 Enterprise application development and support
 - 👨‍💻 All of my projects are available at [Timezonedesign](http://timezonedesign)
-- 🌱 <b>Front-end</b> : Vuejs | Reactjs | Bootstrap
-- 🌱 <b>Mobile</b> : Flutter | React Native | Xamarin | Ionic | java | kotlin | swift
-- 💻 <b>Back-end</b> : Node.js | Django | Ruby on Rails | Laravel | Symfony | CodeIgniter
+- 🌱 <b>Front-end</b> : Vuejs | Reactjs | Angular | Bootstrap 
+- 🌱 <b>Mobile</b> : Flutter | React Native | Xamarin | Ionic | java | kotlin | swift 
+- 💻 <b>Back-end</b> : Node.js | Django | Ruby on Rails | Laravel | Symfony | CodeIgniter | Go
 - 🏯 <b>Database</b> : Mysql | MongoDB | PostgreSQL
-- 🐉 <b>CMS</b> : Wordpress | Shopify
+- 🐉 <b>CMS</b> : Wordpress | Shopify | Prestashop | BigCommerce 
 - 📫 Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on
 
 
